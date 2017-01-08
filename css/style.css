@@ -157,7 +157,7 @@ hr {
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
 	background-color: transparent;
-	color: #E75926;
+	color: #a6c65f;
 			font-size: 12px;
 }
 .navbar-custom .nav li.active {
